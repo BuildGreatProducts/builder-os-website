@@ -46,7 +46,7 @@ export default function HowItWorksSection() {
   }, []);
 
   return (
-    <section id="how-it-works" className="px-6 pt-12 pb-48 sm:pt-16 sm:pb-64">
+    <section id="how-it-works" className="px-6 pt-12 pb-24 sm:pt-16 sm:pb-32">
       <div ref={sectionRef} className="mx-auto max-w-6xl">
         <h2
           className={`mb-16 text-center font-sans text-3xl font-medium leading-none tracking-tight transition-all duration-700 sm:text-4xl ${

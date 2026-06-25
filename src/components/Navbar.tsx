@@ -22,6 +22,12 @@ export default function Navbar() {
           >
             How It Works
           </a>
+          <a
+            href="#academy"
+            className="font-sans text-sm font-medium transition-opacity duration-200 hover:opacity-70"
+          >
+            Academy
+          </a>
         </div>
 
         <a
