@@ -3,6 +3,7 @@ import HeroSection from "@/components/HeroSection";
 import BuildOnAutopilot from "@/components/BuildOnAutopilot";
 import SkillsSection from "@/components/SkillsSection";
 import HowItWorksSection from "@/components/HowItWorksSection";
+import AcademySection from "@/components/AcademySection";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -13,6 +14,7 @@ export default function Home() {
       <SkillsSection />
       <BuildOnAutopilot />
       <HowItWorksSection />
+      <AcademySection />
       <Footer />
     </main>
   );
